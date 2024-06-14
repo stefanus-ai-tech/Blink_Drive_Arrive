@@ -29,7 +29,7 @@ This repository contains code to detect driver drowsiness using a webcam feed. T
 - Matplotlib
 - A compatible webcam
 
-Ensure your camera angle is correct to capture clear frontal images of the driver's eyes for accurate detection.
+Ensure your camera angle is correct to capture clear side view images of the driver's eyes for accurate detection.
 
 ## Installation
 

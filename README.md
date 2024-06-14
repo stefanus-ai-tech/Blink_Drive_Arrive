@@ -182,6 +182,6 @@ Ensure your camera angle is correct to capture clear frontal images of the drive
 ## Acknowledgments
 
 - This project uses OpenCV for real-time video processing and TensorFlow for deep learning model training.
-- The alert sound used in this project is from [FreeSound](https://freesound.org).
+- The alert sound used in this project is from [Pixabay](https://pixabay.com/sound-effects/search/alert/).
 
 Feel free to contribute to this project by opening issues or submitting pull requests.

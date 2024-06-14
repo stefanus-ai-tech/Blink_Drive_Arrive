@@ -1,7 +1,7 @@
 # Blink_Drive_Arrive
 Driver Drowsiness Detection
 
-# Video Demonstration
+# Video Demonstration (Turn on the video sound to hear the alert)
 
 https://github.com/stefanus-ai-tech/Blink_Drive_Arrive/assets/148773999/5fc62a1f-affe-4759-951f-fbcd12dcba2c
 
